@@ -1,0 +1,5 @@
+__pycache__/
+db.sqlite3/
+.dj_env/
+dj_env/
+.idea/
